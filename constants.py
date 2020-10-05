@@ -1,0 +1,2 @@
+ERROR_TAG = "ERROR"
+OK_TAG = "OK"
